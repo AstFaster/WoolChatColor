@@ -1,0 +1,6 @@
+name: WoolChatColor
+version: 1.0.0-SNAPSHOT
+main: fr.astfaster.woolchatcolor.WoolChatColor
+commands:
+  chatcolor:
+    description: Change chat color
